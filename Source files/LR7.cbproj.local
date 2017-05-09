@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2017/05/09 12:43:15.612,=C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2017/05/09 12:43:15.709,=C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/05/09 12:44:16.771,C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\LR7PCH1.h=C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2017/05/09 12:44:16.774,C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\LR7.cbproj=C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\Project2.cbproj</Transaction>
+    <Transaction>2017/05/09 12:44:23.772,C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\MainForm1.dfm=C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/05/09 12:44:23.772,C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\MainForm1.h=C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2017/05/09 12:44:23.772,C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\MainForm1.cpp=C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/05/09 12:44:56.511,=C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/05/09 12:45:04.124,C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\StackInt.h=C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2017/05/09 12:45:04.124,C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\StackInt.cpp=C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/05/09 12:46:03.597,C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\7\StackInt.cpp=C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\StackInt.cpp</Transaction>
+    <Transaction>2017/05/09 12:46:03.597,C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\7\StackInt.h=C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\StackInt.h</Transaction>
+    <Transaction>2017/05/09 12:46:04.175,C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\7\MainForm1.h=C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\MainForm1.h</Transaction>
+    <Transaction>2017/05/09 12:46:04.175,C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\7\MainForm1.cpp=C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\MainForm1.cpp</Transaction>
+    <Transaction>2017/05/09 12:46:04.175,C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\7\MainForm1.dfm=C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\MainForm1.dfm</Transaction>
+    <Transaction>2017/05/09 12:46:04.706,C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\7\LR7PCH1.h=C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\LR7PCH1.h</Transaction>
+    <Transaction>2017/05/09 12:46:05.400,C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\7\LR7.cbproj=C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\LR7.cbproj</Transaction>
+    <Transaction>2017/05/09 13:18:08.784,=C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\7\Unit1.cpp</Transaction>
+    <Transaction>2017/05/09 13:18:23.140,C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\7\Hash.cpp=C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\7\Unit1.cpp</Transaction>
+    <Transaction>2017/05/09 13:18:23.140,C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\7\Hash.h=C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\7\Unit1.h</Transaction>
+    <Transaction>2017/05/09 14:33:06.862,C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\7\HashTable.h=C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\7\Hash.h</Transaction>
+    <Transaction>2017/05/09 14:33:06.862,C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\7\HashTable.cpp=C:\Users\Кирилл\Documents\Embarcadero\Studio\Projects\7\Hash.cpp</Transaction>
+  </Transactions>
+  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="LR7.cpp"/>
+    <File Path="LR7PCH1.h"/>
+    <File Path="MainForm1.cpp"/>
+    <File Path="MainForm1.cpp"/>
+    <File Path="MainForm1.dfm"/>
+    <File Path="MainForm1.h"/>
+    <File Path="StackInt.cpp"/>
+    <File Path="StackInt.cpp"/>
+    <File Path="StackInt.h"/>
+    <File Path="HashTable.cpp"/>
+    <File Path="HashTable.cpp"/>
+    <File Path="HashTable.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
