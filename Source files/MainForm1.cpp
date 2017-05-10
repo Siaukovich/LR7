@@ -25,7 +25,7 @@ void __fastcall TForm1::ButtonAddClick(TObject *Sender)
 {
 	if (gHash == NULL)
 	{
-		ShowMessage("You have to create gHash table before adding elements!");
+		ShowMessage("You have to create hash table before adding elements!");
         return;
 	}
 
@@ -80,7 +80,7 @@ void __fastcall TForm1::ButtonDeleteFromStackClick(TObject *Sender)
 {
 	if (gHash == NULL)
 	{
-		ShowMessage("You have to create gHash table before deleting elements!");
+		ShowMessage("You have to create hash table before deleting elements!");
 		return;
 	}
 
@@ -117,7 +117,7 @@ void __fastcall TForm1::ButtonClearClick(TObject *Sender)
 {
 	if (gHash == NULL)
 	{
-		ShowMessage("You have to create gHash table before clearing it!");
+		ShowMessage("You have to create hash table before clearing it!");
 		return;
 	}
 
